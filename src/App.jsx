@@ -90,7 +90,7 @@ export default function App() {
 
             <div className="flex flex-col md:flex-row gap-4 justify-center">
               <a
-                href="https://wa.me/918639102483?text=Hi%20I%20would%20like%20to%20book%20a%20stay%20at%20Peaceful%20Abode%20x%20Jasper's%20Cafe"
+                href="https://wa.me/918639102483?text=Hi%20"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="bg-yellow-400 text-black px-8 py-4 rounded-full font-medium hover:scale-105 transition inline-block"
